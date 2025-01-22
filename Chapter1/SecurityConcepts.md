@@ -28,3 +28,6 @@ Availability means to ensure that systems, services, and data are accessible whe
 6. **Accountability**:
 
 ## 1.2 Policies and Attacks
+
+`Assets` contain information, software, hardware, etc. and are things that we want to protect
+`Policy` This defines what the system is supposed to do  and what is should NOT do (i.e. it defines the system's rules and practices).
